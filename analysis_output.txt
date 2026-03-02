@@ -1,0 +1,20 @@
+Text Analysis Report
+====================
+
+Total Word Count: 459
+Unique Word Count: 342
+Average Word Length: 7.58
+Longest Word: maintainability
+Most Frequent Word: must (8)
+
+Top 10 Words:
+must: 8
+that: 7
+can: 7
+engineers: 6
+systems: 5
+design: 4
+developers: 4
+system: 4
+data: 4
+software: 3
